@@ -1,0 +1,14 @@
+{
+  "targets": {
+    "airsoftxperience-b8798": {
+      "hosting": {
+        "app": [
+          "airsoftxperience-b8798"
+        ]
+      }
+    }
+  },
+  "projects": {
+    "default": "airsoftxperience-b8798"
+  }
+}
